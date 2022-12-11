@@ -23,7 +23,7 @@
     "dotenv": "^8.1.0",
     "dotenv-safe": "^8.1.0",
     "ejs": "^2.5.7",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-ejs-extend": "0.0.1",
     "express-validator": "^4.3.0",
     "mongoose": "^4.13.9",
